@@ -1,0 +1,50 @@
+.navbar-expand-lg .navbar-nav {
+  flex-direction: row;
+  align-items: center;
+}
+.nav-link {
+  font-family: "Axiforma";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: 0.005em;
+  color: #121920;
+}
+
+.logo-image {
+  width: 300px;
+}
+
+.sign-in {
+  border: 1px solid grey;
+  background-color: rgba(255, 255, 255, 0.445);
+  border-radius: 10px;
+  font-family: "Axiforma";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  color: #121920;
+  padding: 12px 24px;
+  gap: 10px;
+
+  border: 1px solid #121920;
+  border-radius: 8px;
+}
+
+.sign-up {
+  border: 1px solid grey;
+  background: #f22b37;
+  border-radius: 8px;
+
+  margin-left: 15px;
+  font-family: "Axiforma";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+
+  color: #ffffff !important;
+  padding: 12px 24px;
+}
